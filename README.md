@@ -6,6 +6,7 @@
   <img alt="HTML badge" src="https://img.shields.io/badge/HTML-orange?style=flat&logoSize=auto">
   <img alt="CSS badge" src="https://img.shields.io/badge/CSS-blue?style=flat&logoSize=auto">
   <img alt="Javascript badge" src="https://img.shields.io/badge/Javascript-yellow?style=flat&logo=Javascript&logoColor=%23000000&logoSize=auto">
+  <img alt="Bootstrap badge" src="https://img.shields.io/badge/Bootstrap-purple?logo=Bootstrap&logoColor=white&logoSize=auto">
 </div>
 <p>I'm also increasing my knowledge in these languages for later projects and to expand on current ones!</p>
 <div align="center">
