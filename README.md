@@ -22,6 +22,8 @@
 <div align="center">
   <p>You can reach me on LinkedIn - click the button below to go to my profile!</p>
   <a href="https://www.linkedin.com/in/callum-tech-gamer"><img alt="LinkedIn badge" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=while&logoSize=auto"></a>
+  <br>
+  <p>You can also email me @ techgamer6432@gmail.com</p>
 </div>
 
 <p>I will update my profile periodically! Keep an eye on it!</p>
