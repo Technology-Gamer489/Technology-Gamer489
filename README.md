@@ -1,10 +1,8 @@
 <h1 align="center">Hi! I'm Callum (or @Technology-Gamer489)</h1>
 <p>As my username suggests, I'm into all things technology and gaming!</p>
 
-<div align="center">
-  <p>Pronouns: He/Him</p>
-  <p>Fun fact: I'm a massive car nerd and I've been able to name cars since I was 3 years old!</p>
-</div>
+<p>Pronouns: He/Him</p>
+<p>Fun fact: I'm a massive car nerd and I've been able to name cars since I was 3 years old!</p>
 
 <p>I'm currently using these programming languages in projects that I'm working on!</p>
 <div align="center">
