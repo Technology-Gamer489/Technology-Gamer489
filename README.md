@@ -1,18 +1,23 @@
 <h1 align="center">Hi! I'm Callum (or @Technology-Gamer489)</h1>
 <p>As my username suggests, I'm into all things technology and gaming!</p>
 
+<div align="center">
+  <p>Pronouns: He/Him</p>
+  <p>Fun fact: I'm a massive car nerd and I've been able to name cars since I was 3 years old!</p>
+</div>
+
 <p>I'm currently using these programming languages in projects that I'm working on!</p>
 <div align="center">
   <img alt="HTML badge" src="https://img.shields.io/badge/HTML-orange?style=flat&logoSize=auto">
   <img alt="CSS badge" src="https://img.shields.io/badge/CSS-blue?style=flat&logoSize=auto">
   <img alt="Javascript badge" src="https://img.shields.io/badge/Javascript-yellow?style=flat&logo=Javascript&logoColor=%23000000&logoSize=auto">
   <img alt="Bootstrap badge" src="https://img.shields.io/badge/Bootstrap-purple?logo=Bootstrap&logoColor=white&logoSize=auto">
+  <img alt="C# badge" src="https://img.shields.io/badge/C%23-darkgreen?style=flat&logoSize=auto">
 </div>
 <p>I'm also increasing my knowledge in these languages for later projects and to expand on current ones!</p>
 <div align="center">
   <img alt="PHP badge" src="https://img.shields.io/badge/php-darkblue?style=flat&logo=PHP&logoColor=%23fff&logoSize=auto">
   <img alt="MySQL badge" src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=%23fff&logoSize=auto">
-  <img alt="C# badge" src="https://img.shields.io/badge/C%23-darkgreen?style=flat&logoSize=auto">
 </div>
 
 <h2 align="center">Collaborations</h2>
