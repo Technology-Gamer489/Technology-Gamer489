@@ -2,7 +2,7 @@
 <p>As my username suggests, I'm into all things technology and gaming!</p>
 
 <p>Pronouns: He/Him</p>
-<p>Fun fact: I'm a massive car nerd and I've been able to name cars since I was 3 years old!</p>
+<p>Fun fact: I'm a massive car nerd and I've been able to name cars since I was 2 years old!</p>
 
 <p>I'm currently using these programming languages in projects that I'm working on!</p>
 <div align="center">
